@@ -1,4 +1,4 @@
-const API = "http://localhost:3000/municipios";
+const API = "https://my-municipios-senac-2.onrender.com/municipios";
 const listar = document.getElementById("lista-municipios");
 
 const CLIENT_API_KEY = "SUA_CHAVE_SECRETA_MUITO_FORTE_123456";
